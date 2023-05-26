@@ -31,6 +31,18 @@ Why don't scientists trust atoms? Because they make up everything!
 - [ ] Do the laundry
 - [ ] Buy some new clothes
 
+> ✅ Success
+>
+> You achieved what you wanted
+
+> ⚠ Warning
+>
+> You're close to a cliff
+
+> ⛔ Error
+>
+> We couldn't load the matrix
+
 That's all for now! Have a great day!
 
 
